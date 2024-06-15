@@ -52,6 +52,8 @@ Array.from(boxes).forEach(element =>{
     })
 })
 
+// this is dummy comment for testing.
+
 // Add onclick listener to reset button
 reset.addEventListener('click', ()=>{
     let boxtexts = document.querySelectorAll('.boxtext');
